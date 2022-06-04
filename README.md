@@ -32,7 +32,7 @@
 
 ### Version Control
 <a href="" target="_blank"><img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=flat-square&logo=git&logoColor=white"/></a>
-<a href="https://github.com/jiyeong1004" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://github.com/bhs0906" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white"/></a>
 
 ### Servers
 <a href="" target="_blank"><img alt="Apache" src="https://img.shields.io/badge/apache%20-%23D42029.svg?&style=flat-square&logo=apache&logoColor=white"/></a>
